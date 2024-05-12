@@ -1,8 +1,7 @@
-# Back End Test Automation
-This repository contains my test suites and lodged buds on manual testing of three Web Application   
+# Manual Tesitng Projects
+This repository contains my test suites and lodged buds during the manual testing of three Web Application   
 
-
-## Table of Contents
+g## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
