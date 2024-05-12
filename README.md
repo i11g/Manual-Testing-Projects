@@ -1,7 +1,7 @@
 # Manual Tesitng Projects
-This repository contains my test suites and lodged buds during the manual testing of three Web Application   
+This repository contains my test suites and lodged bugs during the manual testing of three Web Application   
 
-g## Table of Contents
+## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
@@ -12,9 +12,9 @@ g## Table of Contents
 ## General Information
 The repo contains the testing results of performing manual tests of the following Web App;ications:
 - Foody
-- 
+- Story Spoil
 -
--  Why did you undertake it?
+-  The Web Apps were provided by SoftUni and are part of the course
 
 ## Technologies Used
 - manual testing
