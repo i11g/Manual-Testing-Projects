@@ -1,5 +1,5 @@
 # Manual Tesitng Projects
-This repository contains my test suites and lodged bugs during the manual testing of three Web Application   
+This repository contains my test suites and lodged bugs during the manual testing of three Web Applications   
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,13 +20,11 @@ The repo contains the testing results of performing manual tests of the followin
 - manual testing
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on 
+
 - Many thanks to SoftUni
 
 ## Contact
-Created by [](https://) - feel free to contact me!
+Created by [i11g](https:/i11g.github.io/) - feel free to contact me!
 
 ## License 
 This project is open source and available under the MIT License. 
