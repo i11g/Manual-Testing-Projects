@@ -14,7 +14,7 @@ The repo contains the testing results of performing manual tests of the followin
 - Foody
 - Story Spoil
 -
--  The Web Apps were provided by SoftUni and are part of the course
+-  The Web Apps were provided by SoftUni and are part of the course QA Fundamentals and manual Testing
 
 ## Technologies Used
 - manual testing
