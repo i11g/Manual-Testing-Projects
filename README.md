@@ -11,10 +11,10 @@ This repository contains my test suites and lodged bugs during the manual testin
 
 ## General Information
 The repo contains the testing results of performing manual tests of the following Web App;ications:
-- Foody
+- Foody App
 - Story Spoil
--
--  The Web Apps were provided by SoftUni and are part of the course QA Fundamentals and manual Testing
+- Idea App
+- The Web Apps were provided by SoftUni and are part of the course QA Fundamentals and manual Testing
 
 ## Technologies Used
 - manual testing
