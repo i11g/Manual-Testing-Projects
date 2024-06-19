@@ -1,5 +1,5 @@
 # Manual Tesitng Projects
-This repository contains my test suites and lodged bugs during the manual testing of three Web Applications   
+The repo contains manual test suites and lodged bugs during a manual testing of three Web Applications   
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -10,11 +10,11 @@ This repository contains my test suites and lodged bugs during the manual testin
 * [License](#license) 
 
 ## General Information
-The repo contains the testing results of performing manual tests of the following Web App;ications:
+The repo contains the testing results of performing manual tests of the following Web Applications:
 - Foody App
 - Story Spoil
 - Idea App
-- The Web Apps were provided by SoftUni and are part of the course QA Fundamentals and manual Testing
+- The Web Apps were provided by SoftUni and are part of the course QA Fundamentals and Manual Testing
 
 ## Technologies Used
 - manual testing
