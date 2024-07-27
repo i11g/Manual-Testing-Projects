@@ -1,5 +1,5 @@
 # Manual Tesitng Projects
-The repo contains manual test suites and lodged bugs during a manual testing of three Web Applications   
+The repo contains manual test suites and lodged bugs during manual testing of three different Web Applications.   
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -9,8 +9,8 @@ The repo contains manual test suites and lodged bugs during a manual testing of 
 * [License](#license) 
 
 ## General Information
-The repo contains the testing results of performing manual tests of the three Web Applications provided by 
-SoftUni as part of the course QA Fundamentals and Manual Testing
+The repo contains the testing results of performing manual tests of three Web Applications provided by 
+SoftUni as part of the course QA Fundamentals and Manual Testing.
 
 ## Technologies Used
 - manual testing
